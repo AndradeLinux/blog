@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://thedarkmode.netlify.app"
 title   = "The Dark Mode"
 languageCode = "pt-br"
 theme = "hello-friend-ng"
