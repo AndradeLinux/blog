@@ -135,7 +135,7 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "instagram"
-    url  = "https://instagram.com/sr.linux_andrade"
+    url  = "https://instagram.com/andrade.gabriel__"
 
   [[params.social]]
     name = "email"
